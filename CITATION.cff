@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Lightweight Evaluation and Operational Scorecards for Tool-Using AI Agents"
+authors:
+  - family-names: Katta
+    given-names: Mukunda Rao
+    orcid: "https://orcid.org/0009-0007-6071-3896"
+    affiliation: "Independent Researcher"
+type: article
+date-released: 2026-05-05
+doi: 10.5281/zenodo.20034550
+url: "https://doi.org/10.5281/zenodo.20034550"
+license: CC-BY-4.0
