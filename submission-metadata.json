@@ -1,0 +1,28 @@
+{
+  "title": "Lightweight Evaluation and Operational Scorecards for Tool-Using AI Agents",
+  "author": "Mukunda Rao Katta",
+  "document_type": "technical report",
+  "keywords": [
+    "AI agents",
+    "agent evaluation",
+    "tool use",
+    "operational scorecards",
+    "LLM reliability",
+    "workflow evaluation"
+  ],
+  "recommended_first_venues": [
+    "Zenodo",
+    "OSF Preprints",
+    "SSRN"
+  ],
+  "supporting_public_artifacts": [
+    "https://huggingface.co/collections/mukunda1729/agent-labs-portfolio",
+    "https://huggingface.co/spaces/mukunda1729/agent-eval-lab",
+    "https://huggingface.co/spaces/mukunda1729/ops-scorecard-lab",
+    "https://openrouter.ai/apps?url=https%3A%2F%2Fmukunda1729-agent-eval-lab.hf.space%2F",
+    "https://openrouter.ai/apps?url=https%3A%2F%2Fmukunda1729-ops-scorecard-lab.hf.space%2F",
+    "https://mukunda-vjcs6--agent-labs-portal-fastapi-app.modal.run",
+    "https://www.kaggle.com/datasets/mukundakatta/agent-eval-scenarios",
+    "https://www.kaggle.com/datasets/mukundakatta/premium-agent-repo-landscape"
+  ]
+}
