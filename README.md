@@ -19,3 +19,11 @@ Contents:
 - `paper.bib` as the current bibliography for the draft
 - `submission-metadata.json` as a compact source of reusable metadata
 - `zenodo-upload-checklist.md` for the first public posting route
+## Repository Health
+This repository includes a dependency-free health check for core documentation, metadata, and CI wiring. Run it locally before publishing changes:
+
+```sh
+python3 scripts/check_repository_health.py
+```
+
+The same check runs in GitHub Actions on pushes and pull requests.
